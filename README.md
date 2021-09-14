@@ -12,8 +12,13 @@ php date plugin that you can use in reservation and similar web applications
 #You can access the date information with the date attribute of the .day class.
 
 JQUERY
+
 <script>
+  
   $('.day').click(function(){
+  
     var date = $(this).attr('date');
+  
   })
+  
 </script>
