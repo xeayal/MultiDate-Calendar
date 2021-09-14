@@ -10,7 +10,7 @@ php date plugin that you can use in reservation and similar web applications
 
 #You can set the background color of the selected day section from main.js
 
-#You can access the date information with the date attribute of the .day class.
+#You can get to date information with the date attribute of the .day class.
 
 JQUERY
 
