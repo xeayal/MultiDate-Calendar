@@ -9,3 +9,11 @@ php date plugin that you can use in reservation and similar web applications
 #You can change the perPage value in the main.js file to set how many days it should appear on each page.
 
 #You can set the background color of the selected day section from main.js
+#You can access the date information with the date attribute of the .day class.
+
+JQUERY
+<script>
+  $('.day').click(function(){
+    var date = $(this).attr('date');
+  })
+</script>
