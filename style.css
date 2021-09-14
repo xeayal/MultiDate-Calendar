@@ -1,0 +1,21 @@
+.splide__pagination {
+		display: none;
+	}
+	#splide01-track {
+		margin: 35px;
+	}
+	.day {
+		width: 55px;
+		padding: 5px;
+		border: 2px solid #000;
+		border-radius: 10px;
+		margin: 0 auto;
+		display: inline-block;
+		margin-right: 10px;
+	}
+	.splide {
+		max-width: 680px !important;
+	}
+	.splide__slide {
+		cursor: pointer;
+	}
